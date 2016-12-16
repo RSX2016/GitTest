@@ -9,3 +9,9 @@ void newfunction()
 
 }
 
+
+void A()
+{
+
+}
+
